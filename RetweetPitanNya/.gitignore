@@ -4,11 +4,11 @@
 
 war/WEB-INF/classes/
 war/WEB-INF/appengine-generated/
-war/WEB-INF/lib/appengine*
-war/WEB-INF/lib/datanucleus*
-war/WEB-INF/lib/geronimo-jpa*
-war/WEB-INF/lib/jdo-api*
-war/WEB-INF/lib/jsr*
-war/WEB-INF/lib/transaction-api*
+war/WEB-INF/lib/appengine*.jar
+war/WEB-INF/lib/datanucleus*.jar
+war/WEB-INF/lib/geronimo-jpa*.jar
+war/WEB-INF/lib/jdo-api*.jar
+war/WEB-INF/lib/jsr*.jar
+war/WEB-INF/lib/transaction-api*.jar
 
 src/twitter4j.properties
